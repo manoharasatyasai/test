@@ -3,4 +3,4 @@ if(hungry=="yes"):
     print("eat somasa")
 
 else:
-    print("do your work")
+    print("do your work") 
